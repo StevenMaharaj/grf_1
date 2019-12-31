@@ -1,1 +1,1 @@
-from GuassRF.simulation import one_d_nys
+from GuassRF.simulation import one_d_nys, two_d_nys
