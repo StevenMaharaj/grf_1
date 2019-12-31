@@ -1,1 +1,1 @@
-from GuassRF.simulation import KL
+from GuassRF.simulation import one_d_nys
